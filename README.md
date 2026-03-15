@@ -4,6 +4,8 @@
 
 ##  Doku
 -   [verzeichnisstrucktur](docs/01_verzeichnisstrucktur.md)
+-   [strategie](docs/02_branch_strategie.md)
+
 
 -   [x]cleanup gemacht
 -   [x]README erstellt
